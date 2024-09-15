@@ -1,0 +1,40 @@
+{
+ "itemData":
+   [
+      {
+       "Id":0,
+       "Name": "Pistola",
+       "type": 1,
+       "Ammunition": 5,
+       "Cd": 0.8
+      },
+      {
+       "Id":1,
+       "Name": "Rifle",
+       "type": 1,
+       "Ammunition": 12,
+       "Cd": 0.3
+      },
+      {
+       "Id":2,
+       "Name": "LanzaGranadas",
+       "type": 1,
+       "Ammunition": 2,
+       "Cd": 2
+      },
+      {
+       "Id":3,
+       "Name": "Escopeta",
+       "type": 1,
+       "Ammunition": 4,
+       "Cd": 1.5
+      },
+      {
+       "Id":4,
+       "Name": "Katana",
+       "type": 1,
+       "Ammunition": 1,
+       "Cd": 0.3
+      }
+   ]
+}

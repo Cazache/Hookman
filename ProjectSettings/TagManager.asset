@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Shootable
+  - CheckPoint
+  - 0
+  - Manager
+  - SaveButton
+  - Bullet
+  - EnemyBullet
+  - Enemy
+  - Katana
+  - Boss
+  - Pet
+  - 1
+  - 2
+  - FinalDoor1
+  - FinalDoor2
+  - FinalDoor3
+  - Dead
+  - End
+  - 3
+  - Ground
+  - 4
+  - 5
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Wall
+  - Enemy
+  - Object
+  - Player
+  - Bullet
+  - FlyEnemy
+  - EnemyBullet
+  - Drop
+  - Weapon
+  - TextCollider
+  - TankEnemy
+  - Boss
+  - Pet
+  - LoadLevel
+  - FinalDoor
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Fire
+    uniqueID: 3804908061
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 2459547729
+    locked: 0
